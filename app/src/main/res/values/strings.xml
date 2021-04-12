@@ -1,0 +1,21 @@
+<resources>
+    /** Defining Global String Variables */
+    <string name="app_name">ACME Super Store</string>
+    <string name="edit_message">Select a Department</string>
+    <string name="button_send">Shoes</string>
+    <string name="button_send2">Clothes</string>
+    <string name="todo">TODO</string>
+    <string name="nike_air">Nike</string>
+    <string name="clothes">Puma</string>
+    <string name="button_send3">Health</string>
+    <string name="Health">Purell</string>
+    <string name="Health_cost">$4.99</string>
+    <string name="nike_cost">$199.99</string>
+    <string name="hoodie_cost">$59.99</string>
+    <string name="newsletter">Newsletter Sign-up</string>
+    <string name="shoe_cart">Add to Cart</string>
+    <string name="clothes_cart">Add to Cart</string>
+    <string name="health_cart">Add to Cart</string>
+    <string name="search_title">Search ACME Products</string>
+    <string name="search_hint">Product Search</string>
+</resources>
